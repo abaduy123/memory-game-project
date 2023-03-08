@@ -80,7 +80,7 @@ this.firstElementChild.style.display     = "none";
 imgStateTracker(this.firstElementChild.style.display,this.id,this.firstElementChild.src);
 
 hideOnThree();
-setTimeout(compareImages,1000)
+setTimeout(compareImages,500)
 
 
  
